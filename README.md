@@ -1,16 +1,12 @@
 # products
 
-A new Flutter project.
+USED 👩🏻‍💻 API -BLOC -DIO
 
-## Getting Started
+❤Found this project useful?
 
-This project is a starting point for a Flutter application.
+if you Found this project useful,then please consider giving ia a ⭐ on Github and sharing it with your friend.
 
-A few resources to get you started if this is your first Flutter project:
+Demo ⬇
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="486" alt="product1 (2)" src="https://user-images.githubusercontent.com/76265991/184887477-2c99130a-9ffa-44f1-97db-38003267cd86.png">
